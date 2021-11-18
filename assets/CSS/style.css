@@ -1,9 +1,9 @@
 body {
-    background-color: red;
+    /* background-color: red; */
     color: red;
     font-size: 30px;
 }
-.container {
+/* .container {
     width: 50%;
     padding: 30px;
     background-color: white;
@@ -12,12 +12,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    border-radius: 30px;
-}
+    border-radius: 30px; */
+/* } */
 .odo_container {
     margin-left: 5%;
     display: inline-block;
-    width: 40%;
+    /* width: 40%; */
     position: relative;
     height: 100%;
     border-radius: 30px;
