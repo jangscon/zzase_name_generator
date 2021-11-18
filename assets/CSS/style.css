@@ -1,0 +1,59 @@
+body {
+    background-color: red;
+    color: red;
+    font-size: 30px;
+}
+.container {
+    width: 50%;
+    padding: 30px;
+    background-color: white;
+    position: absolute;
+    height: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 30px;
+}
+.odo_container {
+    margin-left: 5%;
+    display: inline-block;
+    width: 40%;
+    position: relative;
+    height: 100%;
+    border-radius: 30px;
+}
+.zzase_input_box {
+    margin-left: 30px;
+}
+#zzase_title {
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: bold;
+    /* color: red; */
+}
+.zzase_input {
+    font-size: 30px;
+    color: magenta;
+    
+}
+
+.zzase_button{
+    width: 200px;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+}
+
+.zzase_button:hover {
+    background-color: white;
+    color: red;
+}
+
+
+#odo_zzase_gihab_name {
+    font-weight: bold;
+}
+
+#print_name {
+    padding : 15px 0 15px 0;
+}
