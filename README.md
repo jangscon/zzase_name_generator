@@ -1,4 +1,5 @@
 # zzase_name_generator
+[짜세 이름 생성기](https://jangscon.github.io/zzase_name_generator/index.html).
 ### Description
     https://gall.dcinside.com/board/view/?id=marinecorps&no=199625 기반 웹 페이지
 ### Environment
